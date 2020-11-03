@@ -8,6 +8,9 @@
     height: 100vh;
     background-color: #040404;
 }
+.sidebar p{
+    padding-top: 10px;
+}
 .sidebar__logo{
     margin-right: auto;
     height: 70px;
