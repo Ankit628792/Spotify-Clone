@@ -2,6 +2,7 @@
 A Spotify - based Web Player, built with ReactJs, which uses the offical Spotify API to obtain user's details, playlists and control play state.
 
 ## Preview Image
+<img src="https://github.com/Ankit628792/Spotify-Clone/blob/master/spotify.png?raw=true" />
 
 
 ## 🚀 Technologies
@@ -12,11 +13,10 @@ Technologies that I used to develop this Zoom's clone:
 * [Spotify for Developer](https://developer.spotify.com/documentation/)
 
 ## 💻 Getting started
-```bash
+
 Get a Spotify developer API KEY from spotify developer account.
 for more reference, go to [Spotify for Developer](https://developer.spotify.com/documentation/web-api/)
 then, add the key into spotify.js file int the project
-```
 
 **Clone the project and access the folder**
 
