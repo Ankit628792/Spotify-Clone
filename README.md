@@ -14,9 +14,9 @@ Technologies that I used to develop this Zoom's clone:
 
 ## 💻 Getting started
 
-Get a Spotify developer API KEY from spotify developer account.
-for more reference, go to [Spotify for Developer](https://developer.spotify.com/documentation/web-api/)
-then, add the key into spotify.js file int the project
+Get a Spotify developer API KEY from spotify developer account. <br />
+For more reference, go to [Spotify for Developer](https://developer.spotify.com/documentation/web-api/) <br />
+Then, add the key into spotify.js file int the project
 
 **Clone the project and access the folder**
 
